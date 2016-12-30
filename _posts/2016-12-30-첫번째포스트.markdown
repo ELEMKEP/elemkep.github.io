@@ -15,21 +15,49 @@ This is another paragraph, not connected to the above one.
 with a hard line break. \\
 And another one.
 
+**My bold text**
+_Italic text_
+'Monospaced'
+
+Here is [a link](http://youtube.com)
+
+![An image; this is the alt text](https://openai.com/assets/research/generative-models/cifar10samples-2-5f6f6c0616f4cf0e63817d2e857e1a4bedd5c9f28f6971ae9f427b37105c3a2f.jpg)
+
+* Bullet list item 1
+* Bullet list item 2
+
++ Plus list item 1
++ Plus list item 2
+
+- Minus list item 1
+- Minus list item 2
+
+1. Numbered list item 1
+2. Numbered list item 2
+3. Numbered list item 3
+11. Numbered list item 11
+
+Definition list term 1
+: is the definition 1.
+
+Definition list term 2
+: is the definition 2.
+
+   ... Let's continue writing.
+
 First level header
-======
+==========
 
 Second level header
-------
+----------
 
-   Other first level header
+Other first level header
 =
 
 > This is a blockquote.
-=
-And a header
-------
 
-======
+
+And a header
 is it end?
 
 
