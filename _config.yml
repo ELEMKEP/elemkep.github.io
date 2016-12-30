@@ -18,7 +18,7 @@ email: fingking2000@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm graduate student at Yonsei University, involved in MCML group (http://mcml.yonsei.ac.kr).
   My research interests are multimedia application and multimedia signal processing based on machine learning.
-  This blog is for my skills and communications!
+  This blog is for my archive!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -30,7 +30,7 @@ safe: true
 
 # Build settings
 markdown: kramdown
-highlighter: rogue
+highlighter: rouge
 
 theme: minima
 gems:
