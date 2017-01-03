@@ -7,7 +7,7 @@ categories: jekyll update
 
 graph signal과 machine learning의 결합.
 
-이 분야에 대해서는 EPFL에서 제안한 GCNN[GCNN]과 GRCNN[GRCNN]이 현재 state-of-the-art이다. 
+이 분야에 대해서는 EPFL에서 제안한 [GCNN]과 [GRCNN]이 현재 state-of-the-art이다. 
 
 사실 다른 곳에서의 연구 내용은 눈에 띄게 나타나고 있지 않는 듯.
 
